@@ -8,21 +8,22 @@ const projects = [
     name: "JioEvents",
     description: "Webinar-enabled video conferencing app",
     align: "right",
-    image: "../../public/images/JioEvents-social-media.jpg",
+    image: "/images/JioEvents-social-media.jpg",
     link: "https://jioevents.com/home",
   },
-    {
+  {
     name: "Jio Edge Cloud Services",
     description: "Cloud platform for edge computing and scalable services",
     align: "right",
-    image: "../../public/images/Jio-cloud.jfif",
+    image: "/images/Jio-cloud.jfif",
     link: "",
   },
-    {
+  {
     name: "Bancassuarance",
-    description: "Full-stack bancassurance platform for policy management and sales",
+    description:
+      "Full-stack bancassurance platform for policy management and sales",
     align: "right",
-    image: "../../public/images/bancassurance.png",
+    image: "/images/bancassurance.png",
     link: "https://ext.bajajallianz.com/microsites/portal/#/auth/login",
   },
 ];
